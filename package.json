@@ -1,22 +1,22 @@
 {
-  "name": "goit-js-hw-13-image-finder",
+  "name": "goit-js-hw-13-image-finder-observer",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://MarharytaBoichenko.github.io/goit-js-hw-13-image-finder",
+  "homepage": "https://MarharytaBoichenko.github.io/goit-js-hw-13-image-finder-observer",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-13-image-finder/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-13-image-finder-observer/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MarharytaBoichenko/goit-js-hw-13-image-finder.git"
+    "url": "git+https://github.com/MarharytaBoichenko/goit-js-hw-13-image-finder-observer.git"
   },
   "keywords": [],
   "author": "MarharytaBoichenko",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MarharytaBoichenko/goit-js-hw-13-image-finder/issues"
+    "url": "https://github.com/MarharytaBoichenko/goit-js-hw-13-image-finder-observer/issues"
   },
   "devDependencies": {
     "@pnotify/core": "^5.2.0",

@@ -39,6 +39,7 @@ function onSearch(e) {
             const { hits, totalHits } = data;
             renderImageCard(hits);
             showNotice(noticeText);
+            refs.formEl.reset();
         });
     }
 
@@ -57,7 +58,6 @@ function onEntriesObs(entries, observer) {
         .then((data) => {
             const { hits, totalHits } = data;
             renderImageCard(hits);
-             showNotice(noticeText);
         });
         }
     });
